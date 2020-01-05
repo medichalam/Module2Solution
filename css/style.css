@@ -1,5 +1,10 @@
 div {
 	background-color: gray;
+	box-sizing: border-box;
+	
+	padding: 10px;
+	border: 1px solid black;
+	margin: 10px;
 }
 
 /***************** Desktop View ***********************/
