@@ -1,3 +1,7 @@
+div {
+	background-color: gray;
+}
+
 /***************** Desktop View ***********************/
 @media (min-width: 992px) {
 	.col-lg-4 {
